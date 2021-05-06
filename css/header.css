@@ -37,3 +37,19 @@ li{
     display: inline;
     font-size: 24px;
 }
+
+.cart{
+    position: fixed;
+    width: auto;
+    height: 25px;
+    top: 24px;
+    right: 20%;
+}
+
+.aantal{
+    position: fixed;
+    top: 1px;
+    right: 23%;
+    font-size: 23px;
+    font-weight: bold;
+}

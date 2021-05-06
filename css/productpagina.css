@@ -1,0 +1,103 @@
+.sneakers{
+    width: auto;
+    height: 275px;
+}
+
+.positie{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.sneakerinfo{
+    padding-left: 50px;
+}
+
+.size{
+    width: auto;
+    height: 5mm;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+
+.kleuren{
+    display: flex;
+}
+
+.size:hover{
+    cursor: pointer;
+}
+
+.maat{
+    background-color: #fff;
+    border: 2px solid gray;
+    color: black;
+    padding: 10px 44px;
+    text-align: left;
+    padding-left: 6px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.addtocart{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 15px 11px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.addtocart:hover{
+    background-color: rgb(53, 53, 53);
+    cursor: pointer;
+}
+
+.prijs{
+    font-size: 24px;
+}
+
+.optie{
+    margin-bottom: 6px;
+    margin-top: 27px;
+}
+
+.afrekenen{
+    text-align: center;
+    padding-top: 50px;
+}
+
+#fakelink{
+    color: red;
+}
+
+#fakelink:hover{
+    color: rgb(255, 72, 72);
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.pijl{
+    width: auto;
+    height: 20px;
+}
+
+.vorigePagina{
+    display: flex;
+    margin-left: 22%;
+    font-weight: unset;
+}
+
+.vorigePagina:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.gaTerug{
+    margin-top: 2px;
+    padding-left: 10px;
+}
