@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="./css/footer.css">
+    <link rel="stylesheet" href="css/contact.css">
+    <link rel="stylesheet" href="css/productpagina.css">
+</head>
+<body>
+    <header>
+        <div id="logo">Sneaker Shop</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Collectie</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="overons.html">Over ons</a></li>
+            </ul>
+        </nav>
+        <!--bron:https://www.svgrepo.com/show/80543/shopping-cart-outline.svg-->
+        <img class="cart" src="images/cart.svg" alt="">
+        <p class="aantal">0</p>
+    </header>
+
+    <a href="index.html" class="vorigePagina">
+        <!--bron: https://image.flaticon.com/icons/png/512/130/130850.png-->
+        <img class="pijl" src="images/terug.png" alt="Ga terug">
+        <p class="gaTerug">Vorige pagina</p>
+    </a>
+
+    <!--bron: https://cdn.sneakerbaron.nl/uploads/2020/01/23164607/nike-air-force-1-an20-white-ct7724-100.png-->
+    <div class="positie">
+        <img class="sneakers" src="images/airforce1.png" alt="Witte Nike Air Force 1">
+        <div class="sneakerinfo">
+            <h1>Nike Air Force 1</h1>
+            <p class="prijs">€150,-</p>
+            <p class="optie">Maat</p>
+            <button class="maat">
+                42
+            </button>
+            <p class="optie">Kleur</p>
+            <div class="kleuren">
+                <img class="size" src="images/kleuren/wit.svg" alt="wit">
+                <img class="size" src="images/kleuren/rood.svg" alt="rood">
+                <img class="size" src="images/kleuren/blauw.svg" alt="blauw">
+            </div>
+            <button class="addtocart">Aan winkelwagen toevoegen</button>
+        </div>
+    </div>
+    <div class="afrekenen">
+        <p id="hide"></p>
+        <p id="fakelink"></p>  
+    </div>
+
+    <footer>
+        <div>
+            <img src="./images/instagram.svg" alt="instagram">
+            <img src="./images/facebook.svg" alt="facebook">
+            <img src="./images/snapchat.svg" alt="snapchat">
+            <img src="./images/twitter.svg" alt="twitter">
+        </div>
+        <ul >
+            <li>Web design</li>
+            <li>Development</li>
+            <li>About</li>
+            <li>Terms</li>
+            <li>Privacy Policy</li>
+        </ul>
+    </footer>
+    <script src="js/winkelmand.js"></script>
+</body>
+</html>

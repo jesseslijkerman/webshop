@@ -1,0 +1,107 @@
+#homepagina input[type=search] {
+    padding: 10px;
+    width: 75%;
+    margin-top: 40px;
+    margin-left: 18%;
+}
+
+body#homepagina{
+    margin: 81px;
+    font-family: sans-serif; 
+}
+
+main{
+    margin-top: 10px;
+    margin-bottom: 130px;
+    display: flex;
+    justify-content: center;
+}
+
+div.filter{
+    height: 580px;
+    background-color: whitesmoke;
+    width: 215px;
+    margin-top: 40px;
+    margin-right: 20px;
+    border: 2px black;
+    padding: 10px;
+}
+
+div h2{
+    text-align: center;
+    border-bottom: black 2px solid;
+    padding: 5px;
+}
+
+div.size{
+    width: 100%;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin: 10px;
+    margin-top: 30px;
+    text-align: left;
+}
+
+div.sizebutton{
+    border-bottom: 2px lightgray solid;
+    border-bottom-width: thin;
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+div button.maatbutton{
+    width: 60px;
+    height: 30px;
+    margin: 3px;
+    border-radius: 5px;
+    border: 0px;
+    margin-bottom: 10px;
+}
+
+div button.maatbutton:hover{
+    border: solid 2px black;
+}
+
+div input.checkboxen{
+    margin: 5px;
+}
+
+div.row{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+div.pic{
+    background-color: gray;
+    height: 220px;
+    width: 280px;
+    margin-bottom: 10px;
+    margin-right: 40px;
+}
+
+div.pic img{
+    height: 100%;
+    width: 100%;    
+}
+
+span.title{
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+span.subtitle{
+    font-family: sans-serif;
+    color: gray;
+}
+
+span.price{
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+div.merk form{
+    border-bottom: 2px solid lightgray;
+    padding-bottom: 20px;
+    border-bottom-width: thin;
+}
