@@ -1,0 +1,39 @@
+@font-face{
+    font-family: StoneWalls;
+    src: url(../fonts/StoneWalls.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+#logo{
+    font-family: 'StoneWalls', Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    text-align: center;
+}
+
+a{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+nav{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+li{
+    display: inline;
+    font-size: 24px;
+}
