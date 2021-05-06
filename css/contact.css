@@ -1,0 +1,52 @@
+body{
+    font-family: sans-serif;
+}
+
+.h1contact{
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+input, label{
+    display: block;
+}
+
+.row1, .row2{
+    float: left;
+    margin-right: 20px;
+}
+
+.inputsmall{
+    padding: 12px 20px;
+    margin-top: 4px;
+    margin-bottom: 18px;
+    box-sizing: border-box;
+}
+
+.inputlarge{
+    padding: 51px 173px;
+    margin-top: 4px;
+    margin-bottom: 8px;
+    box-sizing: border-box;
+}
+
+.inputsmall{
+    width: 250px;
+}
+
+input[type=text]{
+    border: 3px solid #ccc;
+}
+
+input[type=text]:focus {
+    border: 3px solid #555;
+  }
+
+.form {
+    margin-left: 37%;
+    display: block;
+}
+form{
+    display: inline-block;
+}
