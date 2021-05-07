@@ -14,3 +14,8 @@ Bij het opzetten van onze online winkel is met een aantal principes rekening geh
 09 - Appearance follows behaviour
 10 - Consistency matters
 
+
+Voor wij begonnen met het maken van de webshop gingen wij eerst een wireframe maken op een Miro bord. en probeerde wij daar al een rekening te houden met de principes. 
+
+Link naar Miro Board: https://miro.com/app/board/o9J_lGDo_gw=/
+
