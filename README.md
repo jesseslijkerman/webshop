@@ -13,3 +13,6 @@ De volgende stap is altijd natuurlijk, door te klikken op een sneaker open je pr
 ### Appearance follows behaviour
 Mensen zullen kunnen inschatten dat ze meer informatie over een schoen kunnen krijgen door op de foto te klikken op de homepage. Verder staat er duidelijk op de buttons wat ze doen.
 
+
+### Consistency matters
+
