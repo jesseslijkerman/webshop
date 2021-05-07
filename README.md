@@ -1,6 +1,6 @@
 # webshop
 
-## Sneakers Shop
+# #Sneakers Shop
 
 Voor onze front-end ontwikkelingscursus moeten we een case kiezen die in duo's moet worden opgelost. 
 Wij hebben de webshop case gekozen waarin wij een fake-it-till-you-make-it webshop moesten maken.
@@ -30,10 +30,11 @@ De volgende stap is altijd natuurlijk, door te klikken op een sneaker open je pr
 
 
 ### Appearance follows behaviour
-Mensen zullen kunnen inschatten dat ze meer informatie over een schoen kunnen krijgen door op de foto te klikken op de homepage. Verder staat er duidelijk op de buttons wat ze doen.
+Mensen zullen kunnen inschatten dat ze meer informatie over een schoen kunnen krijgen door op de foto te klikken op de homepage. Verder staat er duidelijk op de buttons wat ze doen. Ook kun je bij de checkboxen zien dat die als checkboxen functioneren en er ook uitzien.
 
 
 ### Consistency matters
+De gehele website heeft een consistente huisstijl wat ervoor zorgt dat de website gebruiksvriendelijk is. Ook is er consistentie in de elementen zoals de buttons. Als je door de website heen gaat kun je zien dat de buttons hetzelfde blijven. 
 
 
 ![Overons](https://user-images.githubusercontent.com/83574789/117424352-fe4a5d00-af21-11eb-9eb4-71453c783728.jpg)
