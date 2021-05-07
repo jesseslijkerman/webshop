@@ -34,7 +34,7 @@ Mensen zullen kunnen inschatten dat ze meer informatie over een schoen kunnen kr
 
 
 ### Consistency matters
-De gehele website heeft een consistente huisstijl wat ervoor zorgt dat de website gebruiksvriendelijk is. Ook is er consistentie in de elementen zoals de buttons. Als je door de website heen gaat kun je zien dat de buttons hetzelfde blijven. 
+De gehele website heeft een consistente huisstijl wat ervoor zorgt dat de website gebruiksvriendelijk is. Ook is er consistentie in de elementen zoals de buttons. Als je door de website heen gaat kun je zien dat de buttons hetzelfde blijven en niet plotseling veranderen. 
 
 
 ![Overons](https://user-images.githubusercontent.com/83574789/117424352-fe4a5d00-af21-11eb-9eb4-71453c783728.jpg)
