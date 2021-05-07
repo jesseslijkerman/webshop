@@ -2,7 +2,11 @@
 
 ## Sneakers Shop
 
-:sneaker:
+## :athletic_shoe: Wie zijn wij?
+
+Dit project is gemaakt door Jesse Lijkerman en Elston Barrow
+
+## :computer: Onze Case
 
 Voor onze front-end ontwikkelingscursus moeten we een case kiezen die in duo's moet worden opgelost. 
 Wij hebben de webshop case gekozen waarin wij een fake-it-till-you-make-it webshop moesten maken.
