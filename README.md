@@ -49,3 +49,27 @@ De gehele website heeft een consistente huisstijl wat ervoor zorgt dat de websit
 ![Home](https://user-images.githubusercontent.com/83574789/117424361-ff7b8a00-af21-11eb-9f5a-8693c502390d.jpg)
 
 
+## :books: bronnenvermelding 
+
+
+Snapchat icon
+
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+Twitter icon
+
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+Instagram icon
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+Facebook icon
+	
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+
+![image](https://user-images.githubusercontent.com/83561334/117427789-ae6d9500-af25-11eb-92c5-99bb75c997e7.png)
+
+https://www.highsnobiety.com/p/2018-sneaker-releases-stockx/
+
